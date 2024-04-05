@@ -1,0 +1,4 @@
+equipes 
+
+documentar o java doc o entendimento do projeto
+
