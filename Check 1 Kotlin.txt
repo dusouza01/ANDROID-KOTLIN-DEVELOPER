@@ -1,4 +1,8 @@
-equipes 
+email: profeweverton.carreiras@fiap.com.br
+1 pessoa explica 
+documentar o java doc do entendimento do projeto
+equipes auto-gerenciáveis
+escolher um ponto pertinente e explicar sobre
 
-documentar o java doc o entendimento do projeto
+
 
