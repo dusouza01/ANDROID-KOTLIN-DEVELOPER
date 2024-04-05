@@ -1,4 +1,4 @@
-email: profeweverton.carreiras@fiap.com.br
+email: profeweverton.carreira@fiap.com.br
 1 pessoa explica 
 documentar o java doc do entendimento do projeto
 equipes auto-gerenciáveis
