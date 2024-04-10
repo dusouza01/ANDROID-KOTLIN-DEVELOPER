@@ -1,0 +1,21 @@
+Estrutura do Kotlin
+Android Manifest.xml-> Activity - Nova Tela, para configurar a activity
+Pasta Java -> os dois ultimos pacotes sao relacionados a testes. O primeiro pacote sao os nossos arquivos do projeto Arquivo . java
+Pasta res-Layout - Toda Activity tem um layout e ela esta sendo chamada ao MainActivity.java
+Pasta Res - Onde colocamos imagens , icones e toda a parte visual
+Gradle Scripts:
+Build.gradle Project - repositorios e importacao de dependencias
+Build.gradle Modulo  - 
+
+Android Manifest.xml:
+
+Ele define uma atividade chamada "MainActivity" que será a primeira tela exibida quando o aplicativo é iniciado onStart. O atributo "android:exported" indica que a atividade pode ser iniciada por outros aplicativos. O atributo "android:label" define o nome do aplicativo que aparecerá na tela inicial do dispositivo.  Essas são as intenções que são usadas para iniciar o aplicativo a partir da tela inicial do dispositivo.
+
+
+Produto.class.kt:
+
+Gerando os atributos da classe Produto 
+
+Este trecho de código em Kotlin define uma classe chamada "Produto". A classe possui três propriedades: "nome" do tipo String, "descricao" do tipo String e "valor" do tipo BigDecimal.
+O construtor da classe recebe os valores para as três propriedades e os atribui às respectivas propriedades. As propriedades são declaradas como "val", o que significa que elas são somente leitura e seus valores não podem ser alterados depois de atribuídos.
+A classe "BigDecimal" é usada para representar números decimais com precisão arbitrariamente alta. É comumente usada para lidar com valores monetarios já que o projeto é sobre uma lista de produtos.
